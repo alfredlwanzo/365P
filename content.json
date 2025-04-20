@@ -5,6 +5,15 @@
     "custom-text": "Biographie"
   },
   "custom-list": [
-    {}
+    {},
+    {
+      "custom-list-item": "Prenom"
+    },
+    {
+      "custom-list-item": "Prenom"
+    },
+    {
+      "custom-list-item": "Nom"
+    }
   ]
 }

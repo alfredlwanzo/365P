@@ -16,10 +16,13 @@
   "Psaumes": {
     ":items": {
       "verse": {
-        ":type": "line"
+        ":type": "text"
+      },
+      "reverence":{
+        ":type":"line"
       },
       "comment":{
-        ":type":"text"
+        ":type":"rich"
       }
     }
   }

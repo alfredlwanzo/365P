@@ -1,1 +1,10 @@
-{}
+{
+  "custom-field": "La vie est un combat",
+  "custom-object": {
+    "custom-line": "nom",
+    "custom-text": "Biographie"
+  },
+  "custom-list": [
+    {}
+  ]
+}

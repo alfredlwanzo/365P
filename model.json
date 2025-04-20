@@ -22,7 +22,8 @@
         ":type":"line"
       },
       "comment":{
-        ":type":"richtext"
+        ":type":"text"
+        ":richtext":true
       }
     }
   }

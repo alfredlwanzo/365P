@@ -14,5 +14,17 @@
     {
       "custom-list-item": "Nom"
     }
+  ],
+  "Psaumes": [
+    {
+      "verse": "Il a été transpercé pour nos transgressions, brisé pour nos iniquités; le châtiment qui nous donne la paix est tombé sur lui, et c'est par ses blessures que nous sommes guéris.",
+      "reverence": "Ésaïe 53:5",
+      "comment": "<p>Réfléchissez au sacrifice de Jésus pour nos péchés et à l'amour immense qu'il a manifesté. Prenez un moment pour méditer sur la croix et remercier Jésus pour son sacrifice.</p>"
+    },
+    {
+      "verse": "Il n'est pas ici, car il est ressuscité, comme il l'avait dit. Venez, voyez le lieu où il était couché.",
+      "reverence": "Matthieu 28:6",
+      "comment": "<p>Réjouissez-vous dans la victoire de <strong>Jésus </strong>sur la mort et la promesse de la vie éternelle. Célébrez la <strong>résurrection </strong>de Jésus en partageant cette bonne nouvelle avec quelqu'un aujourd'hui.</p>"
+    }
   ]
 }
